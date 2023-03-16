@@ -13,7 +13,5 @@ img {
 h1  {
   color:rgba(242, 7, 242, 0.557)
 }
-title {
-  font-size: 20px;
-  color: deeppink;
-    }
+h2 {outline-color: ghostwhite;
+  color: rgba(255, 62, 62, 0.557);}
