@@ -5,9 +5,10 @@ img {
   width: 30%;
   float: right;
   background-color: yellow;
-  color:pink
+  color:pink;
+  border-radius: 40px;
 }
-* {
+body {
   background-color:
    aquamarine;
   }
@@ -16,3 +17,4 @@ h1  {
 }
 h2 {outline-color: ghostwhite;
   color: rgba(255, 62, 62, 0.557);}
+  
