@@ -1,8 +1,8 @@
 window.onload = function() {
 
-  document.querySelector("#Light").onclick = Darker;
+  document.querySelector("#Light").onclick = Lighter;
 
-  document.querySelector("#Dark").onclick = Lighter;
+  document.querySelector("#Dark").onclick = Darker;
 
   function Darker() {
     document.body.style.backgroundColor = "black";
@@ -10,7 +10,7 @@ window.onload = function() {
   }
 
   function Lighter() {
-    document.body.style.backgroundColor = "pink;"
+    document.body.style.backgroundColor = "white";
     document.body.style.color = "black";
   }
 }
