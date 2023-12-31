@@ -2,7 +2,7 @@
 
 ####  By Christopher Davila
 
-#### Webiste with fake band tour dates and button that changes background color
+### Webiste with fake band tour dates and button that changes background color
 
 ### Technologies Used
 
